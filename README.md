@@ -65,7 +65,6 @@ The project is organized as follows:
 
 * The sample data directory contains 3D models of different trees, along with their textures.
 * The raw directory under res contains 3D model files in SFB format.
-* Customize the app by modifying code in the src directory and resources in the res directory.
 
 #### App Showcase
 
