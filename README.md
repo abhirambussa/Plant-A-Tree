@@ -67,6 +67,8 @@ The project is organized as follows:
 * The raw directory under res contains 3D model files in SFB format.
 * Customize the app by modifying code in the src directory and resources in the res directory.
 
-#### App Showcasw
-![ARFull-1_framed](https://github.com/abhirambussa/Plant-A-Tree/assets/121299178/9ad6bdb0-11d2-4cf5-864c-6e5b2dfe8c32)
+#### App Showcase
+
+![ARFull-1_framed](https://github.com/abhirambussa/Plant-A-Tree/assets/121299178/8fdee350-5392-4677-a15a-9eab4acfe413)
+
 
