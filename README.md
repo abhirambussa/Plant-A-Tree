@@ -69,6 +69,7 @@ The project is organized as follows:
 
 #### App Showcase
 
-![ARFull-1_framed](https://github.com/abhirambussa/Plant-A-Tree/assets/121299178/8fdee350-5392-4677-a15a-9eab4acfe413)
+![appshowcase](https://github.com/abhirambussa/Plant-A-Tree/assets/121299178/2917b53e-30c3-4373-b736-cb5d63236e01)
+
 
 
